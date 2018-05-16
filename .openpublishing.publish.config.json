@@ -19,9 +19,7 @@
   ],
   "notification_subscribers": [],
   "sync_notification_subscribers": [],
-  "branches_to_filter": [],
   "skip_source_output_uploading": false,
-  "contribution_branch_mappings": {},
   "dependent_repositories": [
     {
       "path_to_root": "_themes",
@@ -30,7 +28,18 @@
       "branch_mapping": {}
     }
   ],
-  "branch_target_mapping": {},
   "need_generate_pdf_url_template": false,
-  "need_preview_pull_request": false
+  "branches_to_filter": [
+    "true"
+  ],
+  "need_preview_pull_request": false,
+  "contribution_branch_mappings": {
+    "true-sxs": "true"
+  },
+  "branch_target_mapping": {
+    "true": [
+      "Publish",
+      "PDF"
+    ]
+  }
 }

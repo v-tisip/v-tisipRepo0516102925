@@ -30,14 +30,14 @@
   ],
   "need_generate_pdf_url_template": false,
   "branches_to_filter": [
-    "true"
+    "master"
   ],
   "need_preview_pull_request": false,
   "contribution_branch_mappings": {
-    "true-sxs": "true"
+    "master-sxs": "master"
   },
   "branch_target_mapping": {
-    "true": [
+    "master": [
       "Publish",
       "PDF"
     ]

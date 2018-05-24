@@ -3,7 +3,6 @@
     {
       "build_output_subfolder": "v-tisipDocset0516102925",
       "monikers": [],
-      "moniker_ranges": [],
       "type_mapping": {
         "Conceptual": "Content",
         "ManagedReference": "Content",
@@ -12,12 +11,12 @@
       "docset_name": "v-tisipDocset0516102925",
       "build_source_folder": "v-tisipDocset0516102925",
       "locale": "en-us",
+      "moniker_ranges": [],
       "open_to_public_contributors": false,
       "build_entry_point": "docs",
       "template_folder": "_themes"
     }
   ],
-  "notification_subscribers": [],
   "sync_notification_subscribers": [],
   "skip_source_output_uploading": false,
   "Targets": {
@@ -25,6 +24,7 @@
       "template_folder": "_themes.pdf"
     }
   },
+  "notification_subscribers": [],
   "branches_to_filter": [
     "master"
   ],
